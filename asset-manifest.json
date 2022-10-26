@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/playground/static/js/main.3a67f0b0.js",
+    "index.html": "/playground/index.html",
+    "main.3a67f0b0.js.map": "/playground/static/js/main.3a67f0b0.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3a67f0b0.js"
+  ]
+}
