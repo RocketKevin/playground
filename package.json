@@ -1,0 +1,39 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "A manager website for all my creations",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RocketKevin/playground.git"
+  },
+  "author": "Kevin Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RocketKevin/playground/issues"
+  },
+  "homepage": "https://github.com/RocketKevin/playground",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.4.2",
+    "react-scripts": "^5.0.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/runtime": "^7.19.4"
+  }
+}
